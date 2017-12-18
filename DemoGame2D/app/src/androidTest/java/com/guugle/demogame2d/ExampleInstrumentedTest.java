@@ -1,4 +1,4 @@
-package com.guugle.game2d;
+package com.guugle.demogame2d;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.guugle.game2d", appContext.getPackageName());
+        assertEquals("com.guugle.demogame2d", appContext.getPackageName());
     }
 }

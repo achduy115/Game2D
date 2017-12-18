@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.guugle.game2d"
+        applicationId "com.guugle.demogame2d"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

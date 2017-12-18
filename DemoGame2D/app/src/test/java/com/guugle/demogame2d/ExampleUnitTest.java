@@ -1,4 +1,4 @@
-package com.guugle.game2d;
+package com.guugle.demogame2d;
 
 import org.junit.Test;
 
